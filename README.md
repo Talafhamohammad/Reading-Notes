@@ -9,9 +9,9 @@
 
 # table of contenet 
 
-| Assigment            |   links                          |
-|......................|..................................|
-|lab02a                |[grouth mindset](lab02a)          |
-|reading 02a           |[learning Markdown](reading01)    |
-|reading 02b           |[revision and cloud](reading01)   |
-|reading 101-01        |[the coder computers](reading01)  |
+| Assigment            |   links                               |
+|......................|.......................................|
+|lab02a                |[growth mindset](lab02a)               |
+|reading 02a           |[learning Markdown](reading 02a )      |
+|reading 02b           |[revision and cloud](reading 02b)      |
+|reading 101-01        |[the coder computers](reading 101-01)  |
