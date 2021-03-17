@@ -15,4 +15,4 @@
 |reading 02a           |[learning Markdown](reading02a)        |
 |reading 02b           |[revision and cloud](reading02b)       |
 |reading 101-01        |[the coder computers](reading101-01)   |
-|reading03             |[DUKETT CH8 and CH17](reading03)         |
+|reading03             |[DUKETT CH8 and CH17](reading03)       |
