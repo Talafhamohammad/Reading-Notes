@@ -11,9 +11,10 @@
 
 | Assigment            |   links                               |
 |......................|.......................................|
+|reading03             |[DUKETT8and17](reading03)              |
 |lab02a                |[growth mindset](lab02a)               |
 |reading 02a           |[learning Markdown](reading02a)        |
 |reading 02b           |[revision and cloud](reading02b)       |
 |reading 101-01        |[the coder computers](reading101-01)   |
-|reading03             |[Dukett ch8 and ch17](reading03)       |
+
 
