@@ -11,7 +11,7 @@
 
 | Assigment            |   links                          |
 |......................|..................................|
-|reading 01            |[grouth mindset](reading01)       |
+|lab02a                |[grouth mindset](lab02a)          |
 |reading 02a           |[learning Markdown](reading01)    |
 |reading 02b           |[revision and cloud](reading01)   |
 |reading 101-01        |[the coder computers](reading01)  |
