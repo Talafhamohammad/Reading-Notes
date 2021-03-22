@@ -12,6 +12,7 @@ table of contenet
 
 | Assigment            |   links                               |
 |......................|.......................................|
+|reading06             |[DUKETT,HTML,reading06](reading06)     |
 |reading05             |[DUKETT05reading](reading05)           |
 |reading03             |[DUKETT8and17](reading03)              |
 |lab02a                |[growth mindset](lab02a)               |
