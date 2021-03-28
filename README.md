@@ -23,7 +23,7 @@
 
 ### table-of-content-for-201
 
-| Assigment            |   links                               |
-|......................|.......................................|
-|read01                |[HTML,read01](201/read01)              |
-|read02                |[HTML,read02](201/read02)              |
+| Assigment            |   links                                   |
+|......................|...........................................|
+|class-01              |[class-01](201/class-01)                   |
+|class-01              |[class-02](201/class-02)                   |
