@@ -25,5 +25,5 @@
 
 | Assigment            |   links                                   |
 |......................|...........................................|
-|class-01              |[class-01](201/class-01)                   |
-|class-01              |[class-02](201/class-02)                   |
+|class-01              |[firs assigment](201/class-01)             |
+|class-01              |[second assigment](201/class-02)           |
